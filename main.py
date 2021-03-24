@@ -15,7 +15,6 @@ def start():
 
     if continue_app.lower() == "n":
         print("Goodbye!")
-        return
     else:
         start()
 
